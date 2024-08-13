@@ -1,3 +1,5 @@
 # proyecto 6
-este proyecto es de la clase
+Luis David Gonzalez Sandoval
+este proyecto es 6° proyecto a entregar
+esta hecho con mongoDB para poder generar usuarios y productos
 
